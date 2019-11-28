@@ -1,2 +1,4 @@
 site_name: ObjectiveScript
+site_url: https://objs.dev
+repo_url: https://github.com/kabiroberai/objs-docs
 theme: readthedocs
