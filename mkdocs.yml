@@ -2,3 +2,11 @@ site_name: ObjectiveScript
 site_url: https://objs.dev
 repo_url: https://github.com/kabiroberai/objs-docs
 theme: readthedocs
+nav:
+  - Overview: index.md
+  - Usage: usage.md
+  - Environment: environment.md
+  - Basic Types: basic-types.md
+  - Advanced Types: advanced-types.md
+  - Objective-C Interoperability: objc-interop.md
+  - Type Syntax: type-syntax.md
