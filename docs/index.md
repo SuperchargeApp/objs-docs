@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**ObjectiveScript** is a powerful superset of JavaScript which enables extensive interaction with C and Objective-C code.
+**ObjectiveScript** is a powerful superset of JavaScript, which enables extensive interaction with C and Objective-C code.
 
 Amongst the various features supported, a few highlights are
 

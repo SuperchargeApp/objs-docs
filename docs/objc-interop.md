@@ -126,7 +126,7 @@ A gotcha of the way `self` is implemented is that it's set globally upon enterin
 
 ## Hooking Classes
 
-One can swizzle methods of an existing class using similar syntax to that used to create a class. 
+One can swizzle methods of an existing class using syntax similar to that used to create a class. 
 
 Similar to [Logos](https://github.com/theos/logos), one first sets up a `%hook` for the class.
 
