@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://objs.netlify.com/* https://objs.dev/:splat 301!
