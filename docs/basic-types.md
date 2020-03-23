@@ -21,7 +21,7 @@ The supported numeric types are:
 
 ## Booleans
 
-The Objective-C `BOOL` type is converted to a JavaScript `boolean`, and vice-versa.
+The Objective-C `BOOL` type is converted to a JavaScript `boolean`, and vice-versa. One can also use `YES` and `NO` literals in ObjectiveScript code; these are exactly equivalent to `true` and `false` respectively.
 
 ## Strings
 
