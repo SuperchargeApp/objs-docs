@@ -1,6 +1,6 @@
 site_name: ObjectiveScript
 site_url: https://objs.dev
-repo_url: https://github.com/kabiroberai/objs-docs
+repo_url: https://github.com/SuperchargeApp/objs-docs
 theme: readthedocs
 nav:
   - Overview: index.md
